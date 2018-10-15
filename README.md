@@ -1,4 +1,6 @@
-##Jenkins container for run Ruby apps pipelines
+
+
+## Jenkins container for run Ruby apps pipelines
 
 ## Before start
 
@@ -16,6 +18,6 @@ For do tests you can clone the project:
 
  `https://github.com/herrera-luis/fake-repo`
  
- ##Note
+## Note
  
  The first time when you execute the **setup_jenkins.sh** script in your console you will be see a token password that it's necessary for the installation
